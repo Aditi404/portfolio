@@ -539,7 +539,7 @@ a:hover{
     transition-delay: .2s;
     transform: translate(-50%, -5px);
 }
-@media (max-width:320px){
+@media (max-width:500px){
     .works{
         /* height: 100vh; */
         display: grid;
