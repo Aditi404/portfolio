@@ -33,7 +33,7 @@
     --sec-font-color: #fcf1f142;
 }
 body{
-    background: var(--bg);
+    background:#858f99;
     font-family: var(--font);
     color: var(--main-font-color);
     overflow-x: hidden;
@@ -92,7 +92,7 @@ body{
     margin: 20px 0 0;
     font-size: 4rem;
     font-weight: 900;
-    color: #c28c8c42;
+    color: #383254;
     z-index: 1;
     overflow: hidden;
 
